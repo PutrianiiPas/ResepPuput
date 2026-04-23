@@ -31,13 +31,17 @@ Aplikasi dibuat sebagai tugas Evaluasi Tengah Semester (ETS) mata kuliah Pemrogr
 ## 🖼️ Tampilan Aplikasi
 
 ### 🏠 Halaman Utama
-![Home](screenshots/home.png)
+![Home](screenshots/Screenshot%20main%20screen.png)
+
+---
 
 ### 📄 Detail Resep
-![Detail](screenshots/detail.png)
+![Detail](screenshots/Screenshot%20detail%20screen.png)
+
+---
 
 ### 🔍 Fitur Pencarian
-![Search](screenshots/search.png)
+![Search](screenshots/Screenshot%20search%20screen.png)
 
 ---
 

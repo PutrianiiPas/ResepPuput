@@ -4,9 +4,9 @@
 
 ## 👩‍💻 Developer
 
-| Nama  | NRP   |
-|-------|-------|
-| Putriani Pirma A. Sagala | 5025231045 |
+| Nama | NRP | Kelas |
+|-------|-------|-------|
+| Putriani Pirma A. Sagala | 5025231045 | Pemrograman Perangkat Bergerak - B
 
 ---
 
@@ -98,7 +98,7 @@ ResepPuput/
 
 ---
 
-## 🚀 Cara Menjalankan Project (Opsional)
+## 🚀 Cara Menjalankan Project
 
 1. Clone repository ini
 2. Buka di Android Studio
